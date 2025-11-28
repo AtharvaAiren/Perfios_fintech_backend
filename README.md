@@ -91,7 +91,7 @@ ONEVIGIL_API_KEY=onevigil-key-placeholder
 
 ---
 
-## 🏃 Running Locally (without Docker)
+## Running Locally (without Docker)
 
 Install dependencies:
 
